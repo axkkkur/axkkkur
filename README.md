@@ -49,6 +49,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/dheeraj1174/Dheeraj/blob/output/snake.svg)
-
 ### *Thanks for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate.*
